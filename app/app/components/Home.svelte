@@ -11,7 +11,7 @@
 </page>
 
 <script lang="ts">
-    let message: string = "Changes!!! more?"
+    let message: string = "Changes!!! Is it working???"
 </script>
 
 <style>
